@@ -1,16 +1,16 @@
-### Hi there 👋
+Merhaba! Ben Aybüke. Front-end geliştiriciyim ve web tasarımı konusunda çalışmaktayım. Yazılım geliştirme ve kullanıcı deneyimi üzerine odaklanarak, etkileşimli ve kullanıcı dostu web uygulamaları oluşturmak için tutkulu bir şekilde çalışıyorum.
+
+### Yeteneklerim:
+
+- HTML/CSS
 
 
-**aybukeodabasi/aybukeodabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### İletişim:
 
-Here are some ideas to get you started:
+Eğer benimle iletişime geçmek veya işbirliği yapmak isterseniz, aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- E-posta:aybukeodabasi97@gmail.com
+- GitHub:https://github.com/aybukeodabasi
+
+Teşekkürler.
 
