@@ -10,7 +10,7 @@ Merhaba! Ben Aybüke. Front-end geliştiriciyim ve web tasarımı konusunda çal
 Eğer benimle iletişime geçmek veya işbirliği yapmak isterseniz, aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
 - E-posta:aybukeodabasi97@gmail.com
-- GitHub:https://github.com/aybukeodabasi
+- Linkedin:https://www.linkedin.com/in/aybukeodabasi
 
 Teşekkürler.
 
