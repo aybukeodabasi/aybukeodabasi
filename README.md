@@ -2,7 +2,7 @@ Merhaba! Ben Aybüke. Front-end geliştiriciyim ve web tasarımı konusunda çal
 
 ### Yeteneklerim:
 
-- HTML/CSS
+- HTML/CSS/JavaScript/React
 
 
 ### İletişim:
